@@ -13,3 +13,5 @@ john7183@msu.edu
 
 Zequn He
 hezequn@msu.edu
+
+Titus Merriam: merriamt@msu.edu
