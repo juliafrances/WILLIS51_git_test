@@ -10,3 +10,6 @@ will3298@msu.edu
 
 Benjamin Johnson
 john7183@msu.edu
+
+Aliyah Alzian
+alziannu@msu.edu
