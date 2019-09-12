@@ -11,5 +11,10 @@ will3298@msu.edu
 Benjamin Johnson
 john7183@msu.edu
 
+<<<<<<< HEAD
 Aliyah Alzian
 alziannu@msu.edu
+=======
+Zequn He
+hezequn@msu.edu
+>>>>>>> 3073d449fda686269293c5a29be7aad4e340b9da
